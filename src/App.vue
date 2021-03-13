@@ -1,6 +1,5 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Hello Vue 3 + Vite ( play with it )" />
+  <HelloWorld class="text-center"> Yeah! Click it! 🐥 </HelloWorld>
 </template>
 
 <script setup>
